@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Njcaldwell
+- 👋 Hi, I’m Nick Caldwell
 - 👀 I’m interested in front end web developement
 - 🌱 I’m currently learning Javascript, HTML, CSS, and Pug/Jade
 - 💞️ I’m looking to collaborate on ...
